@@ -8,6 +8,7 @@
 #include<stdio.h>
 
 int main() {
+    printf("hulala");
 
     printf("hello world");
     return 0;
